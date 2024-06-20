@@ -1,2 +1,2 @@
-# font
+# Shan Unicode Font
 for website
